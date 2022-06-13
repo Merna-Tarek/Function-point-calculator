@@ -1,0 +1,24 @@
+C:\Users\Merna Tarek\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\Merna Tarek\Desktop\project\project\bin\Debug\project.exe
+C:\Users\Merna Tarek\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.Form2.resources
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.exe
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Merna Tarek\Desktop\project\project\obj\Debug\project.Form3.resources
+C:\m4(2)\projects\project\project\bin\Debug\project.exe.config
+C:\m4(2)\projects\project\project\bin\Debug\project.exe
+C:\m4(2)\projects\project\project\bin\Debug\project.pdb
+C:\m4(2)\projects\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\m4(2)\projects\project\project\obj\Debug\project.Form1.resources
+C:\m4(2)\projects\project\project\obj\Debug\project.Form2.resources
+C:\m4(2)\projects\project\project\obj\Debug\project.Form3.resources
+C:\m4(2)\projects\project\project\obj\Debug\project.Properties.Resources.resources
+C:\m4(2)\projects\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\m4(2)\projects\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\m4(2)\projects\project\project\obj\Debug\project.exe
+C:\m4(2)\projects\project\project\obj\Debug\project.pdb
